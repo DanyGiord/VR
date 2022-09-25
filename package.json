@@ -1,6 +1,5 @@
 {
-  "homepage": "https://DanyGiord.github.io/VR",
-  "name": "vr-landing-page",
+   "name": "vr-landing-page",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
